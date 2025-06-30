@@ -36,12 +36,6 @@ This dataset is provided by **the Government of Queensland, Australia – Depart
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Preview](Dashboard%20Preview.png)
-
----
-
 ## Key Insights
 
 - Most exits are due to **career dissatisfaction**, **management issues**, and **workload pressure**
