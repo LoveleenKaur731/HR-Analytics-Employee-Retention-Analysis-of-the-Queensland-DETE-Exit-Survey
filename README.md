@@ -38,7 +38,7 @@ This dataset is provided by **the Government of Queensland, Australia – Depart
 
 ## Dashboard Preview
 
-![Dashboard Preview](DashboardPreview.png)
+![Dashboard Preview](Dashboard%20Preview.png)
 
 ---
 
